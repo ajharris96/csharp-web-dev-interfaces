@@ -20,6 +20,10 @@ namespace IceCreamShop
             Cones.Add(cone3);
             Cones.Add(cone4);
 
+            
+            
+
+
             Flavors = new List<Flavor>();
             Flavor flavor1 = new Flavor("Vanilla", 0.75, new List<string> { "dairy" });
             Flavor flavor2 = new Flavor("Chocolate", 0.75, new List<string> { "dairy" });
@@ -31,6 +35,14 @@ namespace IceCreamShop
             Flavors.Add(flavor3);
             Flavors.Add(flavor4);
             Flavors.Add(flavor5);
-        } 
+
+            
+           
+
+
+
+
+
+        }
     }
 }
